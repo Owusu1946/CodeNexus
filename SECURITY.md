@@ -13,7 +13,7 @@ We provide security updates for the following versions of CodeNexus:
 
 If you discover a security vulnerability within CodeNexus, please report it by following the steps below:
 
-Email us at arhanansari2009@gmail.com with detailed information about the vulnerability.
+Email us at owusukenneth77@gmail.com with detailed information about the vulnerability.
 
 We will acknowledge the report within 48 hours and work on a fix as soon as possible.
 
